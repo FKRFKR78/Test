@@ -1,0 +1,15 @@
+tcpaddress:127.0.0.1
+tcpport:5000
+projectID:1
+areaID:2
+equID:3
+opcservername:KEPware.KEPServerEx.V4
+groupname:Device1
+maxitems:5
+headname:Channel1
+endname:F_CV
+items1:Channel1.Device1.tgame
+items2:Channel1.Device1.FKRFKR
+items3:Channel1.Device1.FKR
+items4:Channel1.Device1.ttgame
+:Channel1.Device1.t1

@@ -1,0 +1,5 @@
+tcpaddress:127.0.0.1
+tcpport:6000
+projectID:1
+areaID:2
+equID:3
